@@ -5,7 +5,7 @@
 import git, os
 
 # Get the file with the projects we wish to clone.
-projects = "test.txt"
+projects = "projects.txt"
 
 print ""
 print "GitCloner."
